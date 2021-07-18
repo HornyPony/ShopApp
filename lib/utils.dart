@@ -1,7 +1,7 @@
 import 'package:shop_app/providers/product.dart';
 
 final List<Product> PRODUCTS_DATA = [
-  Product(
+  /* Product(
     id: 'p1',
     title: 'Anime Tokyo Revengers Kimono Men/Women',
     description:
@@ -72,5 +72,5 @@ final List<Product> PRODUCTS_DATA = [
     price: 14.99,
     imageUrl:
         'https://ae01.alicdn.com/kf/H971eaf20085047eba6e2e3a94e0e98c8J/New-Tokyo-Revengers-Cosplay-Kimono-T-shirt-Manga-3D-Print-Hanagaki-Takemichi-Ken-Ryuguji-Haori-Shirt.jpg_220x220xz.jpg_.webp',
-  ),
+  ),*/
 ];
